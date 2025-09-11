@@ -1,6 +1,6 @@
 ## Полина Аленчикова
-_ИТ-11.24.5Ф_
-*__AlenchikovaPK24@spb.ithub.ru__*
+- _ИТ-11.24.5Ф_
+- *__AlenchikovaPK24@spb.ithub.ru__*
 
 # Инструкция по созданию репозитория в GitHub
 1. Зайти на github
