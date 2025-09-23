@@ -18,7 +18,7 @@
 4. Открыть терминал/командную строку
 5. Выполнить команду:
 ```
-git clone https://github.com/username/Polina-mc21.git
+git clone https://github.com/Polina-mc21/MY.git
 ```
 
 # Git Push & Pull
