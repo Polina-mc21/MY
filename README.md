@@ -32,4 +32,5 @@ git push
 ```
 git pull
 ```
-![картинка](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76203f1e-b1a3-4df2-a511-cc97e53d00e6" />)
+<img width="832" height="791" alt="image" src="https://github.com/user-attachments/assets/969e3c9d-0712-43ac-98cf-f82a06424952" />
+
