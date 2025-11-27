@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Smartcat" creationtoolversion="7.0.0.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="ru" datatype="plaintext">
+</header>
+<body>
+
+<tu creationdate="20251127T130330Z" changedate="20251127T130330Z">
+<tuv xml:lang="ru">
+<prop type="x-context-pre">&lt;seg&gt;Бонусные функции для будущего развития&lt;/seg&gt;</prop>
+<prop type="x-context-post">&lt;seg&gt;Нейросетевая система общения&lt;/seg&gt;</prop>
+<seg>9.2.1.</seg>
+</tuv>
+<tuv xml:lang="en">
+<seg>9.2.1.</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>
