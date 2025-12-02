@@ -4,4 +4,3 @@
 4) https://github.com/Polina-mc21/MY/blob/main/requirements.txt
 5) https://github.com/Polina-mc21/MY/blob/main/try_example.py
 6) https://github.com/Polina-mc21/MY/blob/main/vectorize_example_2.py
-7)
