@@ -1,0 +1,7 @@
+1) https://github.com/Polina-mc21/MY/blob/main/TZ.md
+2) https://github.com/Polina-mc21/MY/blob/main/md_to_vectors.py
+3) https://github.com/Polina-mc21/MY/blob/main/rag_system.py
+4) https://github.com/Polina-mc21/MY/blob/main/requirements.txt
+5) https://github.com/Polina-mc21/MY/blob/main/try_example.py
+6) https://github.com/Polina-mc21/MY/blob/main/vectorize_example_2.py
+7)
